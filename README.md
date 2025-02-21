@@ -4,6 +4,9 @@ This repository contains code to fine-tune **LLaMA (LLaMA-2/3)** on a custom dat
 
 ---
 
+## Video demonstration
+https://youtu.be/ZYRiFmkdD6k
+
 ## 📌 Features
 - ✅ Fine-tunes **LLaMA-2 8B** or **LLaMA-3 7B** using Hugging Face’s Transformers and PEFT  
 - ✅ Implements **LoRA (Low-Rank Adaptation)** for parameter-efficient fine-tuning  
