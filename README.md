@@ -14,7 +14,7 @@ This repository contains code to fine-tune **LLaMA (LLaMA-2/3)** on a custom dat
 ## ⚙️ Setup & Installation
 ### 🛠 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/fine-tuning-llama-lora.git
+git clone https://github.com/kanarajarora/Llama-finetuning.git
 cd fine-tuning-llama-lora
 ```
 
